@@ -1,0 +1,167 @@
+0: __background__
+1: wall
+2: building, edifice
+3: sky
+4: floor, flooring
+5: ceiling
+6: road, route
+7: grass
+8: sidewalk, pavement
+9: earth, ground
+10: mountain, mount
+11: water
+12: house
+13: sea
+14: rug, carpet, carpeting
+15: field
+16: sand
+17: skyscraper
+18: grandstand, covered stand
+19: path
+20: runway
+21: stairway, staircase
+22: river
+23: bridge, span
+24: hill
+25: hovel, hut, hutch, shack, shanty
+26: tower
+27: dirt track
+28: land, ground, soil
+29: escalator, moving staircase, moving stairway
+30: stage
+31: conveyer belt, conveyor belt, conveyer, conveyor, transporter
+32: swimming pool, swimming bath, natatorium
+33: waterfall, falls
+34: lake
+35: pier, wharf, wharfage, dock
+36: tree
+37: bed
+38: windowpane, window
+39: cabinet
+40: person, individual, someone, somebody, mortal, soul
+41: door - double door
+42: table
+43: plant, flora, plant life
+44: curtain, drape, drapery, mantle, pall
+45: chair
+46: car, auto, automobile, machine, motorcar
+47: painting, picture
+48: sofa, couch, lounge
+49: shelf
+50: mirror
+51: armchair
+52: seat
+53: fence, fencing
+54: desk
+55: rock, stone
+56: wardrobe, closet, press - closet
+57: lamp
+58: bathtub, bathing tub, bath, tub
+59: railing, rail
+60: cushion
+61: base, pedestal, stand
+62: box
+63: column, pillar
+64: signboard, sign
+65: chest of drawers, chest, bureau, dresser
+66: counter
+67: sink
+68: fireplace, hearth, open fireplace
+69: refrigerator, icebox
+70: stairs, steps
+71: case, display case, showcase, vitrine
+72: pool table, billiard table, snooker table
+73: pillow
+74: screen door, screen
+75: bookcase
+76: blind, screen
+77: coffee table, cocktail table
+78: toilet, can, commode, crapper, pot, potty, stool, throne
+79: flower
+80: book
+81: bench
+82: countertop
+83: stove, kitchen stove, range, kitchen range, cooking stove
+84: palm, palm tree
+85: kitchen island
+86: computer, computing machine, computing device, data processor, electronic computer, information processing system
+87: swivel chair
+88: boat
+89: bar
+90: arcade machine
+91: bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+92: towel
+93: light, light source
+94: truck, motortruck
+95: chandelier, pendant, pendent
+96: awning, sunshade, sunblind
+97: streetlight, street lamp
+98: booth - booth, cubicle, stall, kiosk
+99: television receiver, television, television set, tv, tv set, idiot box, boob tube, telly, goggle box
+100: airplane, aeroplane, plane
+101: apparel, wearing apparel, dress, clothes
+102: pole
+103: bannister, banister, balustrade, balusters, handrail
+104: ottoman, pouf, pouffe, puff, hassock
+105: bottle
+106: buffet, counter, sideboard
+107: poster, posting, placard, notice, bill, card
+108: van
+109: ship
+110: fountain
+111: canopy
+112: washer, automatic washer, washing machine
+113: plaything, toy
+114: stool
+115: barrel, cask
+116: basket, handbasket
+117: tent, collapsible shelter
+118: bag
+119: minibike, motorbike
+120: cradle
+121: oven
+122: ball
+123: food, solid food
+124: step, stair
+125: tank, storage tank
+126: trade name, brand name, brand, marque
+127: microwave, microwave oven
+128: pot, flowerpot
+129: animal, animate being, beast, brute, creature, fauna
+130: bicycle, bike, wheel, cycle
+131: dishwasher, dish washer, dishwashing machine
+132: screen, silver screen, projection screen
+133: blanket, cover
+134: sculpture
+135: hood, exhaust hood
+136: sconce
+137: vase
+138: traffic light, traffic signal, stoplight
+139: tray
+140: ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+141: fan
+142: screen, crt screen
+143: plate
+144: monitor, monitoring device
+145: bulletin board, notice board
+146: shower
+147: radiator
+148: glass, drinking glass
+149: clock
+150: flag
+151: ceiling recessed light
+152: table lamp
+153: light troffer
+154: pendant lamp
+155: ceiling spotlight
+156: fluorescent, fluorescent fixture
+157: floor lamp
+158: wall spotlight
+159: flush mount light
+160: desk lamp
+161: semi-flush mount light - semi-flush mount lights
+162: light bulb, lightbulb, bulb, incandescent lamp, electric light, electric-light bulb
+163: spotlight, spot - spotlights - spotlight
+164: torchiere lamp
+165: wall recessed light
+166: floodlight - floodlights

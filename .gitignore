@@ -4,6 +4,7 @@ data/
 output/
 __pycache__/
 build/
+.ipynb_checkpoints
 *.py[cod]
 *.so
 *.json
